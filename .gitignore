@@ -1,0 +1,11 @@
+# This is deliberate, to pick the most up-to-date one from `C5T/Current/cmake/`.
+CMakeLists.txt
+
+# Modules.
+current
+googletest
+trivial_dep
+
+# Build artefacts.
+.current/
+.current_debug/
